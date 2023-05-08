@@ -13,14 +13,14 @@ Sandoval da Silva Almeida Junior
 # Tutorial para rodar o projeto
 
 ## Pré-requisitos
-Para rodar o projeto, você precisa ter o Python 3 instalado em sua máquina. Além disso, é necessário instalar a seguinte biblioteca:
+Para rodar o projeto, é necessário que se tenha o Python 3 instalado. Além disso, é necessário instalar a seguinte biblioteca:
 
 - streamlit
 
-Você pode instalar essa biblioteca utilizando o seguinte comando:
+É possível instalar essa biblioteca utilizando o seguinte comando:
 
 ```
-pip install pandas matplotlib streamlit
+pip install streamlit
 ```
 
 ## Como rodar o projeto
