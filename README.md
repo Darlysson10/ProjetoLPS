@@ -31,3 +31,5 @@ streamlit run main.py
 ```
 
 Esse comando irá iniciar o servidor do Streamlit e abrir o aplicativo no seu navegador padrão. Em seguida, você poderá interagir com o aplicativo e visualizar os resultados.
+
+Você pode acessar a aplicação pelo link: https://darlysson10-projetolps-main-vwhi1n.streamlit.app/
